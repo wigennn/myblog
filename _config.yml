@@ -9,7 +9,7 @@ description: ''
 keywords:
 author: Wang weiqing
 language: zh-CN
-timezone: '2018-2020'
+timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
