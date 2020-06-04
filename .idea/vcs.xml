@@ -4,6 +4,8 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.deploy_git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/myblog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myblog/.deploy_git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myblog/themes/landscape" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/anatole" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/next" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/themes/sky" vcs="Git" />
