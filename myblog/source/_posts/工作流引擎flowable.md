@@ -12,5 +12,6 @@ Flowable可以十分灵活地加入你的应用/服务/构架。可以将JAR形�
 
 
 ### 二、flowable使用
+[flowable用户手册](https://tkjohn.github.io/flowable-userguide/)
 
 ### 三、总结
