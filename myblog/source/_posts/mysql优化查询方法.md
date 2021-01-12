@@ -16,11 +16,11 @@ tags: mysql
 > 在where | order by | group by 后面的列上建立索引
 
 ## 2.优化sql语句
-> 使用explain
+> 使用explain，关注type,key,rows列
 
-> 不要使用select * from t, *替换成需要返回的列
+> 不要使用select * from t, *替换成需要返回的字段
 
-> 不要在索引列计算和使用函数
+> 不要在索引列计算和使用函数，会使索引失效
 
 > 尽可能使用limit减少返回行数, 减少数据传输时间和带宽浪费 
 
