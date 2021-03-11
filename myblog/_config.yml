@@ -102,5 +102,5 @@ theme: sky
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gitee.com/wigen/blog.git
+  repo: https://gitee.com/wigen/wigen.git
   branch: master
